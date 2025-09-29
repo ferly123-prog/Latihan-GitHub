@@ -3,3 +3,4 @@ Tahapan belajar GitHub BAEEEEEEEEEEEEEE
 3.Belajar Commit
 3.Belajar Branch
 4.Belajar merge
+5.Belajar Config
